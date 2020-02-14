@@ -1,6 +1,6 @@
 # Weather Application
 
-An application that displays the weather of any city in planet Earth. Built with [React JS](https://reactjs.org).
+Weather is an application that displays the weather of any city in planet Earth. Built with [React JS](https://reactjs.org).
 
 ## Description
   This application will allow the user to enter there city of choice and will be able to view the current weather data from the cities they have chosen.
