@@ -2,8 +2,11 @@
 
 Weather is an application that displays the weather of any city in planet Earth. Built with [React JS](https://reactjs.org).
 
-## Description
-  This application will allow the user to enter there city of choice and will be able to view the current weather data from the cities they have chosen.
+## Features
+  1. Set temperature scale to either Celsius/Fahrenheit
+  2. Add/Delete location
+  3. Clear locations
+  4. View location data 
 
 ## Prototype 
   [Link](https://xd.adobe.com/view/99e3cf67-e748-4527-5254-12e8bc267182-efd2/?fullscreen) (Prototype is made with Adobe XD).
