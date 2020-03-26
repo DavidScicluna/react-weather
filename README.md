@@ -1,6 +1,6 @@
 # Weather Application
 
-Weather is an application that displays the weather of any city in planet Earth. Built with [React JS](https://reactjs.org).
+Weather is an application that allows the user to search the current weather of all cities around the world. Built with [React JS](https://reactjs.org).
 
 ## Features
   1. Set temperature scale to either Celsius/Fahrenheit
